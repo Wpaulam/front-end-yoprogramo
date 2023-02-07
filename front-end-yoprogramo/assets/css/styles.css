@@ -140,6 +140,30 @@ a {
 }
 
 
+/*Skills*/
+.progress {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    height: 23px;
+    margin-left: 20px;
+    margin-right: 40px;
+}
+
+.progress:hover {
+transform: scale(1.03);
+}
+
+.progress-bar {
+    background-color: #6c757d;
+}
+
+.progress-bar:hover {
+    background-color: #134a45;
+}
+
+
 /*Proyectos*/
 .proyectos {
     background-color:#f3f4f6 ;
